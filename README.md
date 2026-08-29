@@ -1,4 +1,4 @@
-# Consultas SQL — Contexto de Suporte / Help Desk
+# Consultas SQL - Contexto de Suporte / Help Desk
 
 Repositório com consultas SQL que recriei para praticar e demonstrar lógica aplicada a um cenário comum no meu dia a dia: **análise de chamados de suporte**.
 
